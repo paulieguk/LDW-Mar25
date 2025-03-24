@@ -22,3 +22,12 @@ This lab should take approximately @lab.Variable(minutes) minutes.
 > +Hints will guide you through a portion of the Lab.
 > 
 > +Alerts tell you a task is especially important or requires extra care.
+
+>[+Help] Signing into Windows
+>
+>Use the following credentials:
+>
+> | Username | Password |
+> | :------- | :------- |
+> | +++Administrator+++ | +++Passw0rd!+++ |
+> | | |
