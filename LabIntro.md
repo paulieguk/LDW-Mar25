@@ -28,6 +28,6 @@ This lab should take approximately @lab.Variable(minutes) minutes.
 >Use the following credentials:
 >
 > | Username | Password |
-> | :------- | :------- |
+> | :------: | :------: |
 > | +++Administrator+++ | +++Passw0rd!+++ |
 > | | |
